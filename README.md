@@ -13,7 +13,10 @@ This project is a static clone of the X homepage designed using HTML and Tailwin
 - *Live link* - https://parhladsingh-x-ui-clone.netlify.app/
   
 
-https://github.com/parhladSingh/X-UI-Clone/assets/142223673/4aeac9c6-d17c-4603-823d-03f7e48f2d62
+
+
+https://github.com/parhladSingh/X-UI-Clone/assets/142223673/9fafbe67-7feb-41d6-98cc-af8607af7bfb
+
 
 
 
